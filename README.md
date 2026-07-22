@@ -23,7 +23,7 @@ A passionate Software Developer specializing in building modern web and mobile a
 
 ### 📊 GitHub Metrics
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=20B2AA&width=435&lines=Full-Stack+Developer;BSCS+Student+at+UCP;Building+TourEase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=20B2AA&width=435&lines=Full-Stack+Developer;BSCS+Student+at+UCP;Build+TourEase)](https://git.io/typing-svg)
 
 
 
