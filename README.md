@@ -21,14 +21,23 @@ A passionate Software Developer specializing in building modern web and mobile a
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafizAbdulHannan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizAbdulHannan&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizAbdulHannan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizAbdulHannan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 
 
 ### ⚔️ My Arsenal 
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cpp,py,react,tailwind,vite,nodejs,express,mongo,mysql,vscode,git,github,ubuntu,linux&perline=8" alt="Tech Stack" />
+  </a>
+</p>
+      
 **Programming Languages**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
