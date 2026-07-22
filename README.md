@@ -21,11 +21,9 @@ A passionate Software Developer specializing in building modern web and mobile a
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafizAbdulHannan&show_icons=true&theme=radical&hide_border=true&v=1&cache_seconds=10800)](https://github.com/HafizAbdulHannan)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizAbdulHannan&layout=compact&theme=radical&hide_border=true&v=1&cache_seconds=10800)](https://github.com/HafizAbdulHannan)
+![GitHub Metrics](https://metrics.lecoq.io/HafizAbdulHannan)
 
 
 
