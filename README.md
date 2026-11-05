@@ -7,7 +7,7 @@ A passionate Software Developer specializing in building modern web and mobile a
 ### 🛠️ Tech Stack & Skills
 
 * **Frontend:** React.js, React Native, Vite, Tailwind CSS
-* **Backend:** Node.js, Express.js, MongoDB, MySQL
+* **Backend:** Node.js, Express.js, MongoDB, ASP.Net Core, MySQL
 * **Languages:** JavaScript, C/C++, Python
 * **Tools & OS:** Git, GitHub, VS Code, Linux (Ubuntu/Mint), Wireshark
 
